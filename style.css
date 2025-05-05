@@ -1,0 +1,10 @@
+.newsImage{
+    width: 18rem;
+    position: relative;
+    right: 13px;
+}
+.badge{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
